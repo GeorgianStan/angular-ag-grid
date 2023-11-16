@@ -1,0 +1,11 @@
+:host {
+  display: block;
+  height: 520px;
+  position: relative;
+
+  ag-grid-angular {
+    --ag-range-selection-border-color: transparent;
+    --ag-font-family: 'Roboto', sans-serif;
+    border-radius: 2px;
+  }
+}
